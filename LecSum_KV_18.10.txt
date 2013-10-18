@@ -1,0 +1,18 @@
+Info3 18.10.2013		Konstantin Vogel
+
+Git:
+
+
+
+At the start of the lecture we did some testing with Git and branches.
+scm: source code management
+
+Later on we learned about the File Status Lifecycle and seen a graphic about it.
+source: http://git-scm.com/figures/18333fig0201-tn.png
+
+The cooperation of the mainline and branches  were another topic in the lecture. It showed us an example of how you can work on different versions with different branches and that its the best to keep the number of branches low.
+
+
+
+
+
