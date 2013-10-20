@@ -1,1 +1,19 @@
-rofl
+Ein Test ist ein Versuch, mit dem größere Sicherheit darüber gewonnen werden soll, 
+ob ein technischer Apparat oder ein Vorgang innerhalb der geplanten Rahmenbedingungen 
+funktioniert beziehungsweise ob bestimmte Eigenschaften vorliegen oder nicht.
+Er unterscheidet sich vom Experiment dadurch, dass es beim Test eine Erwartung gibt, 
+die belegt beziehungsweise widerlegt werden soll, während das Ergebnis beim Experiment 
+offen ist oder nur vermutet werden kann. Eine Wiederholbarkeit der Ergebnisse beim Anwenden 
+auf verschiedene Objekte ist eine Voraussetzung beim Experiment, beim Test hingegen ist das 
+Ergebnis je nach Objekt anders. Vom Prüfen unterscheidet sich Testen, dass beim Prüfen noch 
+eine Aussage gemacht wird, wie gut das Objekt die Anforderungen erfüllt.
+Während im Extremfall ein Test ein Beweis sein kann, legt der Begriff „Test“ im Allgemeinen 
+nahe, dass das Testergebnis nicht absolut gültig ist, sondern eine Näherung darstellt. 
+Er ist damit zumeist einfacher oder schneller durchzuführen als ein Beweis. 
+In der Praxis wird ein Test als empirischer Beweis angesehen.
+Manche Tests demonstrieren reale Vorgänge in simulierten Umgebungen. 
+Dies dient der Erprobung neuer oder unbekannter Vorgänge, ohne echte Umgebungen zu beeinträchtigen oder zu gefährden. 
+Da die simulierte Umgebung nicht immer der realen Umgebung vollständig entsprechen kann, 
+sind die Ergebnisse von Tests immer nur unter Berücksichtigung der Qualität der Simulation zu bewerten.
+
+http://de.wikipedia.org/wiki/Test
