@@ -1,0 +1,12 @@
+Sublime Text 2 - my favourite texteditor
+http://www.sublimetext.com/
+
+The features are amazing for example the Plugin for SASS(Syntactically Awesome Style Sheets - http://sass-lang.com/) which is very usefull to write fast CSS for Ruby, because you can use variables.
+Sublime is a light-weight texteditor, so no waiting only coding/writing.
+
+The most amazing features are:
+- multiple selection 
+- the command palette with short syntax commands
+- the find an replace function with RegEx
+- the fuzzy finder (control or command + p) to open files even faster than Vim and apps like PeepOpen
+- that i can use my own Color Scheme
