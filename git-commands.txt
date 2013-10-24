@@ -1,0 +1,34 @@
+Important Git Commands:
+
+git config
+	Configuration for username, email, color.ui, ...
+	example: 
+	git config --global --add user.name "Rene Vos"
+	sets up a the user name for the whole system
+
+git init
+	A git repository is initialized to an existing or a new project
+	example:
+	cd /home/user/arttheist/studium/info3/uebungen git init
+
+git clone
+	Makes a repository copy from an extern source
+	example:
+	git clone https://github.com/Nopx/Info3_EX1
+	copies our info3 repository
+
+git add
+	Adds a file to your repository.
+	example:
+	git add "test2.txt"
+	adds a textfile named test2
+
+git commit
+	All changes in the index creates a new commit object. Sets the branch to point to that new commit. 
+	example: git commit -m "erster Commit"
+
+git push
+	Pushes all the modified local objects (Commits) to the remote repository.
+
+git pull
+	Fetches the files from the remote repository and merges it with your local one. 
