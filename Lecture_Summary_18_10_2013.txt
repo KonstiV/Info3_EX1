@@ -1,0 +1,7 @@
+This lecture we broaded our GIT knowledge. 
+We learned about Distributed Version Control and its advantages in comparison to CVC. 
+We discovered the core concepts like synchronising, tracking or backing up our files as well as downloading or uploading changes at separate steps. 
+Important is the new terminology like push, pull or clone. 
+These allows us to manage our files in new way. We learned why is DVC more profitable than CVC. 
+However DVC has also its disadvanteges which we should remember. 
+We also have seen how does GIT works in practice.
