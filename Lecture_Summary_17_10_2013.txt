@@ -1,0 +1,5 @@
+This lecture we started to analyze Software Configuration Managment. It is essential for well organized programmer. 
+It allows us to manage our files: creating changes, seeing when changes were done, reverting changes, or sharing editable files with other people. 
+We looked detailed on Centralized Version Control on GIT example. The images showing how does this mechanism works helped us understanding this system.  
+We learned basic actions (add, checkout, checkin, head, revision and so on) and terms (repository, server, client, branch, merge, conflict and others) to manage GIT. 
+We also learned more detailed about branching and merging which are one of the main mechanisms of GIT.
